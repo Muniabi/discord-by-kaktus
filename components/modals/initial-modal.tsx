@@ -142,7 +142,7 @@ export const InitialModal = () => {
                                 aria-disabled={isLoading}
                                 variant="primary"
                             >
-                                Create
+                                Создать
                             </Button>
                         </DialogFooter>
                     </form>
